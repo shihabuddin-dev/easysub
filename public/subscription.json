@@ -1,0 +1,583 @@
+[
+    {
+        "id": 1,
+        "name": "Adobe Creative Cloud",
+        "thumbnail": "https://i.postimg.cc/CMWhX2qR/adobe.jpg",
+        "banner": "https://i.postimg.cc/qB67QK7X/adobe-banner.jpg",
+        "frequency": "Yearly",
+        "price": 599.88,
+        "description": "Unlock your creative potential with Adobe Creative Cloud All Apps. This comprehensive suite provides industry-standard tools for graphic design, video editing, web development, photography, UX design, and more. Access over 20 integrated desktop and mobile applications like Photoshop for image manipulation, Illustrator for vector graphics, Premiere Pro for video editing, After Effects for visual effects, and InDesign for layout design. Benefit from seamless workflows across apps, 100GB of cloud storage for easy collaboration and asset management, access to Adobe Fonts, and constant updates bringing the latest features and performance improvements demanded by creative professionals worldwide.",
+        "tech_category": "Design & Video",
+        "features": [
+            "Photoshop",
+            "Illustrator",
+            "Premiere Pro",
+            "After Effects",
+            "InDesign",
+            "Lightroom",
+            "Acrobat Pro",
+            "XD (UX/UI Design)",
+            "Dreamweaver (Web Dev)"
+        ],
+        "subscription_benefits": [
+            "Access to all latest features and updates",
+            "100GB of cloud storage (expandable)",
+            "Adobe Fonts (Thousands of fonts)",
+            "Behance Portfolio Integration",
+            "Adobe Stock Integration (requires credits/separate plan)",
+            "Cross-device syncing"
+        ],
+        "ratings": 4.7,
+        "number_of_reviews": 1250,
+        "tags": [
+            "graphic design",
+            "video editing",
+            "photography",
+            "web development",
+            "creative suite",
+            "adobe",
+            "professional tools",
+            "ui/ux",
+            "collaboration"
+        ],
+        "target_audience": "Creative Professionals, Designers, Video Editors, Photographers, Web Developers, Marketing Teams, Students",
+        "use_cases": [
+            "Editing photos in Photoshop and Lightroom for a professional campaign.",
+            "Creating vector logos and illustrations in Illustrator for branding.",
+            "Editing a feature film or marketing video in Premiere Pro.",
+            "Designing interactive prototypes and user interfaces in Adobe XD.",
+            "Developing and managing professional documents with Acrobat Pro."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "LinkedIn Premium Career",
+        "thumbnail": "https://i.postimg.cc/RFkPyQk6/lindedin.png",
+        "banner": "https://i.postimg.cc/ZRC5GBxm/Linked-In-banner.png",
+        "frequency": "Monthly",
+        "price": 29.99,
+        "description": "Accelerate your job search and career growth with LinkedIn Premium Career. Gain a competitive edge by seeing who's viewed your profile, allowing you to connect with interested recruiters or potential collaborators. Unlock detailed Applicant Insights to understand how you compare to other candidates for specific roles. Utilize InMail credits to directly message hiring managers and individuals outside your immediate network. Access a vast library of LinkedIn Learning courses to upskill and stay relevant in your field. This tier is specifically designed to help active job seekers land their next opportunity faster and build a stronger professional presence.",
+        "tech_category": "Business & Networking",
+        "features": [
+            "See Who's Viewed Your Profile (Past 90 days)",
+            "Direct Messaging (InMail Credits)",
+            "Applicant Insights",
+            "Featured Applicant Status",
+            "LinkedIn Learning Access",
+            "Salary Insights"
+        ],
+        "subscription_benefits": [
+            "Get Hired 2x Faster on Average",
+            "Proactively Reach Out to Recruiters",
+            "Understand Your Competition",
+            "Build In-Demand Skills",
+            "Enhanced Profile Visibility",
+            "Negotiate Salary Effectively"
+        ],
+        "ratings": 4.5,
+        "number_of_reviews": 980,
+        "tags": [
+            "job search",
+            "networking",
+            "career development",
+            "professional branding",
+            "recruitment",
+            "online learning",
+            "linkedin"
+        ],
+        "target_audience": "Active Job Seekers, Professionals looking for career advancement, Recruiters (separate plans available), Sales Professionals (separate plans available)",
+        "use_cases": [
+            "Identifying and contacting recruiters who viewed your profile after applying for a job.",
+            "Using InMail to request an informational interview with someone in a desired company.",
+            "Comparing your skills to other applicants for a specific job posting.",
+            "Taking a LinkedIn Learning course on interview skills before an important meeting."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Microsoft 365 Personal",
+        "thumbnail": "https://i.postimg.cc/CMZMv0zy/microsoft365.webp",
+        "banner": "https://i.postimg.cc/jj8j3QNv/office-banner.webp",
+        "frequency": "Yearly",
+        "price": 69.99,
+        "description": "Empower your productivity with Microsoft 365 Personal. This single-user subscription provides premium versions of essential Office apps like Word, Excel, PowerPoint, and Outlook, always updated with the latest features. Enjoy a massive 1 TB of OneDrive cloud storage to securely back up files, photos, and access them across all your devices (PC, Mac, iOS, Android). Benefit from advanced security features protecting your data and devices from online threats, plus an ad-free Outlook experience. It's the ideal solution for individuals needing powerful productivity tools for personal projects, schoolwork, or managing everyday life.",
+        "tech_category": "Productivity",
+        "features": [
+            "Premium Word",
+            "Premium Excel",
+            "Premium PowerPoint",
+            "Premium Outlook",
+            "OneNote (Premium features)",
+            "Microsoft Teams (Personal/Home use)",
+            "Microsoft Editor (Advanced writing assistance)",
+            "Access (PC only)"
+        ],
+        "subscription_benefits": [
+            "1 TB OneDrive cloud storage",
+            "Works on Windows, macOS, iOS, and Android (up to 5 devices)",
+            "Advanced Security (Ransomware detection, file recovery)",
+            "Always Up-to-Date Features",
+            "Ad-free Outlook.com experience",
+            "Premium Creative Content (Templates, stock photos)",
+            "Technical Support"
+        ],
+        "ratings": 4.8,
+        "number_of_reviews": 1500,
+        "tags": [
+            "office suite",
+            "productivity",
+            "word processing",
+            "spreadsheets",
+            "presentations",
+            "email",
+            "cloud storage",
+            "microsoft",
+            "personal use"
+        ],
+        "target_audience": "Individuals, Students, Freelancers, Home Users",
+        "use_cases": [
+            "Writing essays or reports using advanced features in Word.",
+            "Creating complex budgets or data analysis models in Excel.",
+            "Designing compelling presentations with PowerPoint templates and tools.",
+            "Managing personal email and calendar efficiently in Outlook.",
+            "Storing and accessing important documents and photos securely on OneDrive from any device."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "ChatGPT Plus",
+        "thumbnail": "https://i.postimg.cc/25cmw9Y8/chat-gpt.webp",
+        "banner": "https://i.postimg.cc/xCh1nf6z/chat-gpt.png",
+        "frequency": "Monthly",
+        "price": 20.00,
+        "description": "Supercharge your productivity and creativity with ChatGPT Plus. This premium subscription grants access to OpenAI's most powerful language model, currently GPT-4, offering significantly improved reasoning, comprehension, and generation capabilities compared to the free version. Experience faster response times, ensuring smoother interactions even during peak usage periods. Gain priority access to new features and model improvements as they are released. ChatGPT Plus is invaluable for complex problem-solving, drafting sophisticated content, coding assistance, learning new topics, and brainstorming ideas with a highly capable AI partner.",
+        "tech_category": "AI & Productivity",
+        "features": [
+            "Access to GPT-4 (Most advanced model)",
+            "Faster Response Speed",
+            "Guaranteed Access During Peak Times",
+            "Priority Access to New Features & Improvements",
+            "Access to advanced tools like DALL-E (image generation), browsing, data analysis (within ChatGPT)"
+        ],
+        "subscription_benefits": [
+            "More accurate and nuanced responses",
+            "Enhanced creative writing and content generation",
+            "Improved coding assistance and debugging",
+            "Better performance on complex reasoning tasks",
+            "Reliable access when you need it most",
+            "Be among the first to try new AI capabilities"
+        ],
+        "ratings": 4.9,
+        "number_of_reviews": 2100,
+        "tags": [
+            "ai assistant",
+            "chatbot",
+            "gpt-4",
+            "openai",
+            "productivity",
+            "writing tool",
+            "coding assistant",
+            "content creation",
+            "generative ai"
+        ],
+        "target_audience": "Professionals, Developers, Writers, Students, Researchers, Anyone seeking advanced AI capabilities",
+        "use_cases": [
+            "Drafting complex emails, reports, or creative stories with sophisticated language.",
+            "Debugging code snippets or generating boilerplate code in various programming languages.",
+            "Brainstorming innovative ideas for marketing campaigns or business strategies.",
+            "Summarizing long research papers or articles quickly and accurately.",
+            "Learning about complex topics through interactive conversation and explanation."
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Netflix Premium",
+        "thumbnail": "https://i.postimg.cc/RVKSBT7X/netflix.png",
+        "banner": "https://i.postimg.cc/fbWLvg3J/netfilx-banner.webp",
+        "frequency": "Monthly",
+        "price": 22.99,
+        "description": "Immerse yourself in the ultimate entertainment experience with Netflix Premium. Stream thousands of movies, TV shows, documentaries, and exclusive Netflix Originals without interruptions on up to 4 devices simultaneously – perfect for families or shared households. Enjoy stunning Ultra HD (4K) resolution and immersive Netflix spatial audio on supported titles and devices for the best possible picture and sound quality. Download your favorite content on up to 6 devices for offline viewing on the go. Discover new favorites with personalized recommendations and explore a constantly growing library of global entertainment.",
+        "tech_category": "Entertainment",
+        "features": [
+            "Unlimited Ad-Free Movies & TV Shows",
+            "Access to Mobile Games Catalog",
+            "Watch on 4 Supported Devices Simultaneously",
+            "Download on 6 Supported Devices Simultaneously",
+            "Ultra HD (4K) Streaming Quality Available",
+            "Netflix Spatial Audio Support"
+        ],
+        "subscription_benefits": [
+            "Highest video and audio quality available",
+            "Ideal for families and multiple users",
+            "Watch anytime, anywhere, online or offline",
+            "Huge library of diverse content (Originals & Licensed)",
+            "Personalized profiles and recommendations",
+            "No commercials or interruptions"
+        ],
+        "ratings": 4.6,
+        "number_of_reviews": 18500,
+        "tags": [
+            "streaming",
+            "movies",
+            "tv shows",
+            "entertainment",
+            "4k",
+            "ultra hd",
+            "spatial audio",
+            "family plan",
+            "offline viewing",
+            "netflix"
+        ],
+        "target_audience": "Individuals, Couples, Families, Movie Buffs, TV Show Enthusiasts",
+        "use_cases": [
+            "Hosting a family movie night with everyone watching in high quality.",
+            "Downloading shows for kids to watch on a tablet during a long car trip.",
+            "Catching up on the latest exclusive Netflix series in 4K on a compatible TV.",
+            "Having multiple household members watch different shows on their own devices simultaneously."
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Spotify Premium",
+        "thumbnail": "https://i.postimg.cc/4x1XKNFc/spotify.avif",
+        "banner": "https://i.postimg.cc/RZBqW041/spotify-banner.avif",
+        "frequency": "Monthly",
+        "price": 10.99,
+        "description": "Experience music and podcasts without limits with Spotify Premium. Listen to millions of songs and thousands of podcasts completely ad-free. Download your favorite tracks, albums, playlists, and podcast episodes to listen offline, saving data and ensuring playback anywhere, anytime. Enjoy the freedom to skip tracks as much as you want and play any song instantly. Unlock high-quality audio streaming for a richer listening experience. Discover new artists through personalized playlists like Discover Weekly and Release Radar, and share your listening activity with friends.",
+        "tech_category": "Entertainment",
+        "features": [
+            "Ad-free Music Listening",
+            "Ad-free Podcast Listening (Excludes host-read ads)",
+            "Offline Playback (Downloads)",
+            "Play Any Track On-Demand",
+            "Unlimited Skips",
+            "High-Quality Audio Streaming (Up to 320 kbps)"
+        ],
+        "subscription_benefits": [
+            "Uninterrupted listening experience",
+            "Listen anywhere, even without internet",
+            "Full control over playback",
+            "Superior sound quality",
+            "Personalized music discovery",
+            "Access vast library of songs & podcasts",
+            "Group Session feature (Listen with friends)"
+        ],
+        "ratings": 4.7,
+        "number_of_reviews": 22000,
+        "tags": [
+            "music streaming",
+            "podcasts",
+            "audio",
+            "entertainment",
+            "offline music",
+            "ad-free",
+            "spotify",
+            "playlists",
+            "music discovery"
+        ],
+        "target_audience": "Music Lovers, Podcast Listeners, Commuters, Students, Anyone wanting ad-free audio",
+        "use_cases": [
+            "Listening to your favorite playlist during a workout without ad interruptions.",
+            "Downloading podcasts for a long flight or subway commute.",
+            "Discovering new bands through the Discover Weekly playlist.",
+            "Playing specific songs on demand at a party directly from your phone.",
+            "Enjoying high-fidelity audio through good headphones."
+        ]
+    },
+    {
+        "id": 7,
+        "name": "GitHub Pro",
+        "thumbnail": "https://i.postimg.cc/02ff0syJ/github.png",
+        "banner": "https://i.postimg.cc/fW1VhKPr/github-banner.webp",
+        "frequency": "Monthly",
+        "price": 4.00,
+        "description": "Elevate your development workflow with GitHub Pro. Designed for individual developers and small teams, Pro unlocks powerful features beyond the free tier. Create unlimited private repositories to keep your proprietary code secure. Utilize advanced code review tools like required reviewers and code owners to maintain code quality. Benefit from increased CI/CD minutes via GitHub Actions and larger package storage. GitHub Pro is essential for professionals working on private projects, contributing to complex open-source projects requiring advanced features, or needing finer control over their development process.",
+        "tech_category": "Development",
+        "features": [
+            "Unlimited Private Repositories",
+            "Unlimited Public Repositories",
+            "Required Reviewers on Pull Requests",
+            "Multiple Assignees for Pull Requests",
+            "Code Owners",
+            "Protected Branches (Advanced Rules)",
+            "GitHub Pages (from private repos)",
+            "Wikis (for private repos)",
+            "3,000 CI/CD Minutes/Month (Private Repos)",
+            "2GB Packages Storage (Private Repos)"
+        ],
+        "subscription_benefits": [
+            "Securely host private code",
+            "Enhanced code quality control",
+            "More automation power with Actions",
+            "Better collaboration features",
+            "Publish websites directly from private repos",
+            "Improved project documentation tools",
+            "Standard Support"
+        ],
+        "ratings": 4.8,
+        "number_of_reviews": 750,
+        "tags": [
+            "developer tools",
+            "version control",
+            "git",
+            "github",
+            "code hosting",
+            "collaboration",
+            "ci/cd",
+            "private repositories",
+            "software development"
+        ],
+        "target_audience": "Individual Developers, Freelancers, Small Development Teams, Open Source Contributors needing advanced features",
+        "use_cases": [
+            "Hosting a private code repository for a client project.",
+            "Enforcing code reviews from specific team members before merging.",
+            "Setting up automated testing and deployment pipelines using GitHub Actions for a private project.",
+            "Creating a project wiki for internal documentation within a private repository.",
+            "Building and hosting a personal portfolio site using GitHub Pages from a private repo."
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Zoom Pro",
+        "thumbnail": "https://i.postimg.cc/7LYwS8pW/zoom.jpg",
+        "banner": "https://i.postimg.cc/WbrhpZLb/zoom-banner.jpg",
+        "frequency": "Yearly",
+        "price": 149.90,
+        "description": "Enable professional and reliable video communication with Zoom Pro. Ideal for small teams and businesses, the Pro plan removes the 40-minute limit on group meetings found in the free tier, allowing meetings up to 30 hours long for up to 100 participants. Record your meetings directly to the cloud (1 GB per license) for easy sharing and archiving. Stream meetings live to social media platforms. Gain access to basic user management and reporting features to oversee usage within your team. Zoom Pro provides the essential tools for seamless virtual collaboration, client meetings, and webinars.",
+        "tech_category": "Communication",
+        "features": [
+            "Host up to 100 Participants",
+            "Unlimited Group Meetings (up to 30 hours each)",
+            "Social Media Streaming (Facebook Live, YouTube Live)",
+            "1 GB Cloud Recording per License",
+            "Local Recording Option",
+            "Basic User Management",
+            "Reporting Features"
+        ],
+        "subscription_benefits": [
+            "Conduct longer, uninterrupted meetings",
+            "Easily share meeting recordings",
+            "Expand reach via social streaming",
+            "Professional meeting environment",
+            "Manage team usage (basic)",
+            "Reliable video conferencing platform",
+            "Option to add more features (Webinar, Large Meetings)"
+        ],
+        "ratings": 4.6,
+        "number_of_reviews": 1100,
+        "tags": [
+            "video conferencing",
+            "webinars",
+            "online meetings",
+            "collaboration",
+            "communication",
+            "remote work",
+            "zoom",
+            "cloud recording"
+        ],
+        "target_audience": "Small Businesses, Teams, Consultants, Educators, Freelancers needing longer meeting times",
+        "use_cases": [
+            "Hosting team meetings that regularly exceed 40 minutes.",
+            "Recording client consultation calls for later review or sharing.",
+            "Streaming a company announcement or small webinar to Facebook Live.",
+            "Conducting remote interviews without time restrictions.",
+            "Managing meeting settings and basic usage reports for a small team."
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Canva Pro",
+        "thumbnail": "https://i.postimg.cc/fLVsg7W7/canva.webp",
+        "banner": "https://i.postimg.cc/QdJC1rd2/canva-banner.webp",
+        "frequency": "Yearly",
+        "price": 119.99,
+        "description": "Empower anyone to create stunning designs with Canva Pro. This subscription unlocks a massive library of premium templates, photos, videos, audio, and graphics, vastly expanding your creative options beyond the free plan. Utilize powerful tools like the one-click Background Remover and Magic Resize to adapt designs for any platform instantly. Maintain brand consistency with Brand Kits, storing logos, color palettes, and fonts. Schedule social media content directly from Canva with the Content Planner. With 1TB of cloud storage and collaboration features, Canva Pro is perfect for individuals, marketers, small businesses, and teams needing to produce professional-quality visuals quickly and easily, without needing extensive design skills.",
+        "tech_category": "Design",
+        "features": [
+            "100+ million premium stock photos, videos, audio & graphics",
+            "610,000+ premium templates with new designs daily",
+            "Background Remover Tool",
+            "Magic Resize (Instantly resize designs)",
+            "Brand Kit Management (Logos, colors, fonts)",
+            "Content Planner (Schedule social media)",
+            "Save Designs as Templates",
+            "1TB Cloud Storage"
+        ],
+        "subscription_benefits": [
+            "Access vast library of premium assets",
+            "Create professional designs faster",
+            "Easily maintain brand consistency",
+            "Streamline social media workflow",
+            "Collaborate with team members (Team plans)",
+            "No design expertise required",
+            "Priority Support"
+        ],
+        "ratings": 4.7,
+        "number_of_reviews": 1600,
+        "tags": [
+            "graphic design",
+            "easy design",
+            "templates",
+            "social media graphics",
+            "marketing materials",
+            "presentations",
+            "collaboration",
+            "branding",
+            "canva"
+        ],
+        "target_audience": "Marketers, Small Business Owners, Social Media Managers, Non-Designers, Educators, Students, Content Creators",
+        "use_cases": [
+            "Quickly creating eye-catching social media posts using premium templates and stock photos.",
+            "Removing the background from a product photo for an e-commerce site.",
+            "Resizing a presentation design into various social media formats with Magic Resize.",
+            "Maintaining consistent branding across all marketing materials using Brand Kits.",
+            "Scheduling a week's worth of social media content using the Content Planner."
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Slack Pro",
+        "thumbnail": "https://i.postimg.cc/HxFmGJjq/Slack.png",
+        "banner": "https://i.postimg.cc/ryDDbbf4/slack-banner.webp",
+        "frequency": "Monthly",
+        "price": 8.75,
+        "description": "Transform team communication and collaboration with Slack Pro. Move beyond the limitations of the free plan with unlimited message history search, allowing you to find crucial information anytime. Integrate unlimited apps from the Slack App Directory to streamline workflows and connect your essential tools. Conduct group video calls with screen sharing for up to 50 participants. Collaborate securely with external organizations using Slack Connect. Benefit from features like custom user groups, retention policies, and priority support. Slack Pro is designed for growing teams and businesses needing robust, searchable, and integrated communication.",
+        "tech_category": "Communication",
+        "features": [
+            "Unlimited Message Archive & Search",
+            "Unlimited App Integrations",
+            "Group Video Calls with Screen Sharing (up to 50 people)",
+            "Slack Huddles (Audio/Video)",
+            "Slack Connect (Collaborate with external partners)",
+            "Custom User Groups (@mentions)",
+            "OAuth with Google Workspace & SAML-based SSO",
+            "Custom Retention Policies for messages & files"
+        ],
+        "subscription_benefits": [
+            "Full conversation history access",
+            "Connect all your essential work tools",
+            "Enhanced real-time collaboration",
+            "Secure external collaboration",
+            "Improved team organization",
+            "Centralized communication hub",
+            "Priority Customer Support"
+        ],
+        "ratings": 4.5,
+        "number_of_reviews": 1300,
+        "tags": [
+            "team communication",
+            "collaboration",
+            "messaging",
+            "productivity",
+            "remote work",
+            "integrations",
+            "slack",
+            "business chat"
+        ],
+        "target_audience": "Small to Medium Businesses, Teams within Larger Organizations, Remote Teams, Companies needing integrated communication",
+        "use_cases": [
+            "Searching for a decision made in a channel months ago using unlimited history.",
+            "Integrating project management tools (like Asana or Jira) to get updates directly in Slack.",
+            "Hopping on a quick Huddle or group video call with screen sharing to resolve an issue.",
+            "Creating a shared Slack Connect channel to communicate with a client or agency.",
+            "Setting up custom user groups (@design-team) for targeted announcements."
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Coursera Plus",
+        "thumbnail": "https://i.postimg.cc/d3dYJqyL/Coursera-Plus.webp",
+        "banner": "https://i.postimg.cc/pyNb1yqs/coursera-banner.avif",
+        "frequency": "Yearly",
+        "price": 399.00,
+        "description": "Invest in your professional development with Coursera Plus. This annual subscription offers unlimited access to the vast majority (over 90%) of the Coursera catalog, encompassing thousands of courses, Guided Projects, Specializations, and Professional Certificate programs from top universities and industry leaders like Google, IBM, and Meta. Learn job-relevant skills at your own pace, explore diverse subjects, and earn shareable certificates upon completion to enhance your resume and LinkedIn profile. Coursera Plus is ideal for lifelong learners, career changers, and professionals seeking to upskill or gain recognized credentials across various domains.",
+        "tech_category": "Education",
+        "features": [
+            "Unlimited access to 7,000+ courses, projects, Specializations & Certificates",
+            "Content from 275+ leading universities and companies",
+            "Earn Unlimited Course Certificates",
+            "Learn job-relevant, in-demand skills",
+            "Hands-on Guided Projects for practical skills",
+            "Study at your own pace",
+            "Mobile app access"
+        ],
+        "subscription_benefits": [
+            "Cost-effective access to a huge learning library",
+            "Flexibility to explore multiple interests",
+            "Build a portfolio of recognized credentials",
+            "Stay competitive in the job market",
+            "Learn from world-class instructors",
+            "Structured learning paths (Specializations/Certificates)",
+            "Develop practical skills through projects"
+        ],
+        "ratings": 4.6,
+        "number_of_reviews": 850,
+        "tags": [
+            "online learning",
+            "education",
+            "professional development",
+            "courses",
+            "certificates",
+            "upskilling",
+            "career change",
+            "mooc",
+            "coursera"
+        ],
+        "target_audience": "Lifelong Learners, Professionals Seeking Upskilling, Career Changers, Students, Job Seekers",
+        "use_cases": [
+            "Completing a Google Professional Certificate in Data Analytics to switch careers.",
+            "Taking multiple courses on project management to improve job performance.",
+            "Learning Python programming through a series of courses and guided projects.",
+            "Exploring different fields like marketing, finance, and AI without individual course fees.",
+            "Earning shareable certificates to showcase new skills on a resume or LinkedIn."
+        ]
+    },
+    {
+        "id": 12,
+        "name": "MasterClass",
+        "thumbnail": "https://i.postimg.cc/h47gL05c/masterclsss.webp",
+        "banner": "https://i.postimg.cc/7hzYLFRQ/masterclass-banner.webp",
+        "frequency": "Yearly",
+        "price": 180.00,
+        "description": "Learn from the absolute best in their fields with MasterClass. This streaming platform offers inspirational and practical online classes taught by world-renowned experts and icons across diverse categories like Arts & Entertainment, Business, Design & Style, Sports & Gaming, Writing, and more. Each class features high-production video lessons, detailed workbooks, and access to a community of fellow learners. Gain unique insights, techniques, and philosophies directly from masters like Gordon Ramsay (cooking), Shonda Rhimes (writing for TV), Neil Gaiman (storytelling), or Serena Williams (tennis). MasterClass focuses on deep learning and inspiration from true luminaries.",
+        "tech_category": "Education & Entertainment",
+        "features": [
+            "180+ classes across 11 categories (constantly growing)",
+            "Taught by globally recognized experts and celebrities",
+            "High-production quality video lessons",
+            "Downloadable PDF workbooks with assignments",
+            "Access to online student community ('The Hub')",
+            "Cross-platform viewing (Desktop, Mobile, TV apps)"
+        ],
+        "subscription_benefits": [
+            "Learn directly from world-class masters",
+            "Gain unique insights and perspectives",
+            "Inspirational and engaging content",
+            "Practical advice and techniques",
+            "Explore a wide variety of subjects",
+            "High-quality, cinematic learning experience",
+            "Offline viewing on mobile apps"
+        ],
+        "ratings": 4.8,
+        "number_of_reviews": 920,
+        "tags": [
+            "online learning",
+            "education",
+            "expert instructors",
+            "celebrity teachers",
+            "inspiration",
+            "skill development",
+            "masterclass",
+            "video courses",
+            "creative arts"
+        ],
+        "target_audience": "Curious Individuals, Lifelong Learners, Hobbyists, Aspiring Professionals, Anyone seeking inspiration from experts",
+        "use_cases": [
+            "Learning cooking techniques directly from Gordon Ramsay.",
+            "Improving creative writing skills with insights from Neil Gaiman.",
+            "Understanding leadership principles taught by successful CEOs.",
+            "Getting inspired to pursue photography by Annie Leibovitz.",
+            "Learning game design theory from Will Wright."
+        ]
+    }
+]

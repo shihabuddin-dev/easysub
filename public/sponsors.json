@@ -1,0 +1,50 @@
+[
+    {
+      "name": "Adobe",
+      "logo": "https://i.postimg.cc/XYZgSDb2/adobe.png",
+      "description": "Creative tools for designers, marketers, and content creators.",
+      "link": "https://www.adobe.com/"
+    },
+    {
+      "name": "Microsoft",
+      "logo": "https://i.postimg.cc/CxWsFHMw/microsoft.jpg",
+      "description": "Powerful productivity tools for modern teams.",
+      "link": "https://www.microsoft.com/en/microsoft-365"
+    },
+    {
+      "name": "OpenAI",
+      "logo": "https://i.postimg.cc/mrCNhzhC/ai.webp",
+      "description": "AI research and deployment company.",
+      "link": "https://openai.com/"
+    },
+    {
+      "name": "Google",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg",
+      "description": "Suite of cloud computing, productivity and collaboration tools.",
+      "link": "https://workspace.google.com/"
+    },
+    {
+      "name": "Figma",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
+      "description": "Collaborative interface design tool.",
+      "link": "https://www.figma.com/"
+    },
+    {
+      "name": "Slack",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg",
+      "description": "Channel-based messaging platform for team communication.",
+      "link": "https://slack.com/"
+    },
+    {
+      "name": "Notion",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
+      "description": "All-in-one workspace for notes, tasks, wikis, and databases.",
+      "link": "https://www.notion.so/"
+    },
+    {
+      "name": "Asana",
+      "logo": "https://i.postimg.cc/76W7hTjn/asna.png",
+      "description": "Work management platform to help teams orchestrate their work.",
+      "link": "https://asana.com/"
+    }
+  ]
