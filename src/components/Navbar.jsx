@@ -4,7 +4,6 @@ import { MdDashboard } from 'react-icons/md';
 import Button from './Button';
 import { Link, NavLink, useNavigate } from 'react-router';
 import { FirebaseAuthContext } from '../provider/FirebaseAuthContext';
-import { toast } from 'react-toastify';
 
 const Navbar = () => {
     const { user, logOutUser } = use(FirebaseAuthContext)
@@ -15,7 +14,6 @@ const Navbar = () => {
     const handleLogOutUser = () => {
         logOutUser()
             .then(() => {
-                toast('Logout Success')
             }).catch((error) => {
                 console.log(error)
             });
@@ -34,7 +32,6 @@ const Navbar = () => {
         {user ?
             <Button onClick={handleLogOutUser} variant="danger">Log Out</Button> :
             <Link to='/login'><Button variant="secondary">Login</Button></Link>
-
         }
 
     </>

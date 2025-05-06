@@ -5,15 +5,24 @@ import Button from "../components/Button";
 import { FcGoogle } from "react-icons/fc";
 import { FirebaseAuthContext } from "../provider/FirebaseAuthContext";
 import { toast } from "react-toastify";
+import Spinner from "../components/Spinner";
+import { Navigate } from "react-router";
 
 const Register = () => {
   const navigate = useNavigate()
   const location = useLocation()
-  const { createUserWithGoogle, setUser, createUser, updateUser } = use(FirebaseAuthContext)
+  const { createUserWithGoogle, user, setUser, createUser, updateUser } = use(FirebaseAuthContext)
   const [showPassword, setShowPassword] = useState(false);
   const togglePassword = () => setShowPassword(!showPassword);
 
-  const handleSubmit = (e) => {
+  if (user) {
+    return <>
+      <Spinner />
+      <Navigate to='/' />
+    </>
+
+  }
+  const handleRegister = (e) => {
     e.preventDefault();
     const form = e.target;
     const name = form.name.value;
@@ -78,7 +87,7 @@ const Register = () => {
           Create Your Account
         </h2>
 
-        <form onSubmit={handleSubmit} className="space-y-4">
+        <form onSubmit={handleRegister} className="space-y-4">
           {/* Name */}
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1">Name</label>
@@ -111,7 +120,7 @@ const Register = () => {
               name="photoURL"
               placeholder="https://example.com/your-photo.jpg"
               className="w-full border border-gray-300 px-4 py-2 rounded-lg focus:ring-2 focus:ring-indigo-400 focus:outline-none"
-            required
+              required
             />
           </div>
 
