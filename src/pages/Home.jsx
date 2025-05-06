@@ -9,7 +9,7 @@ const Home = () => {
     return (
         <div className='space-y-10 md:space-y-14'>
             <HeaderSlider />
-            <h1 className="ext-3xl md:text-4xl font-semibold text-center text-indigo-700 mb-6">Explore Subscriptions</h1>
+            <h1 className="text-3xl md:text-4xl font-semibold text-center text-indigo-700 mb-6">Explore Subscriptions</h1>
             <Subscriptions />
             <WhyChooseUs />
             <StatsSection />

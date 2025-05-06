@@ -5,8 +5,8 @@ import Button from "../components/Button";
 import { FcGoogle } from "react-icons/fc";
 import { FirebaseAuthContext } from "../provider/FirebaseAuthContext";
 import { toast } from "react-toastify";
-import Spinner from "../components/Spinner";
 import { Navigate } from "react-router";
+import Spinner from "../components/Spinner";
 
 const Register = () => {
   const navigate = useNavigate()
@@ -20,9 +20,8 @@ const Register = () => {
       <Spinner />
       <Navigate to='/' />
     </>
-
   }
-  const handleRegister = (e) => {
+  const handleSubmit = (e) => {
     e.preventDefault();
     const form = e.target;
     const name = form.name.value;
@@ -87,7 +86,7 @@ const Register = () => {
           Create Your Account
         </h2>
 
-        <form onSubmit={handleRegister} className="space-y-4">
+        <form onSubmit={handleSubmit} className="space-y-4">
           {/* Name */}
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1">Name</label>

@@ -5,8 +5,8 @@ import { Link, useLocation, useNavigate } from "react-router-dom";
 import Button from "../components/Button";
 import { FirebaseAuthContext } from "../provider/FirebaseAuthContext";
 import { toast } from "react-toastify";
-import { Navigate } from "react-router";
 import Spinner from "../components/Spinner";
+import { Navigate } from "react-router";
 
 const Login = () => {
     const { createUserWithGoogle, user, setUser, loginUser } = use(FirebaseAuthContext)
@@ -14,13 +14,11 @@ const Login = () => {
     const location = useLocation()
     const navigate = useNavigate()
     const togglePassword = () => setShowPassword(!showPassword);
-
     if (user) {
         return <>
-            <Spinner />
-            <Navigate to='/'></Navigate>
+        <Spinner />
+         <Navigate to='/' />
         </>
-
     }
     const handleLogin = (e) => {
         e.preventDefault();
